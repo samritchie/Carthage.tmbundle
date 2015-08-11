@@ -12,7 +12,7 @@ require "#{ENV["TM_SUPPORT_PATH"]}/lib/tm/executor"
 
 carthage = ENV["TM_CARTHAGE"] || "/usr/local/bin/carthage"
 
-TextMate::Executor.run(carthage, :script_args =&gt; "bootstrap", :"version_args" =&gt; "version", noun =&gt; "dependencies", :verb =&gt; "Bootstrapping")
+TextMate::Executor.run(carthage, :script_args =&gt; "bootstrap", :"version_args" =&gt; "version", :noun =&gt; "dependencies", :verb =&gt; "Bootstrapping")
 </string>
 	<key>input</key>
 	<string>none</string>
