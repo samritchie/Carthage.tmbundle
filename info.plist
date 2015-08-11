@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fnz@pbqrfcyvpr.pbz.nh</string>
+	<key>contactName</key>
+	<string>Sam Ritchie</string>
+	<key>description</key>
+	<string>Support for editing Cartfiles, and running Carthage commands</string>
+	<key>name</key>
+	<string>Carthage</string>
+	<key>uuid</key>
+	<string>84AFF9C8-D9F5-4EDD-8682-59658C53F959</string>
+</dict>
+</plist>
